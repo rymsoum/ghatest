@@ -946,7 +946,7 @@
         <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
         <cloudontology:hasPrice rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</cloudontology:hasPrice>
         <cloudontology:hasTarification rdf:resource="http://www.semanticweb.org/atika/ontologies/2017/11/cloudontology#3.20euro/mois"/>
-        <cloudontology:belongingTo rdf:resource="http://www.semanticweb.org/atika/ontologies/2017/11/cloudontology#Cloud1"/>
+        <cloudontology:belongingTo rdf:resource="http://www.semanticweb.org/atika/ontologies/2017/11/cloudontology#CloudST"/>
         <cloudontology:hasCost rdf:resource="http://www.semanticweb.org/atika/ontologies/2017/11/cloudontology#CostSummation2"/>
         <hasGuarant rdf:resource="http://www.semanticweb.org/atika/ontologies/2017/11/cloudontology#Guarantsum2"/>
         <cloudontology:hasFormat rdf:resource="http://www.semanticweb.org/atika/ontologies/2017/11/cloudontology#JSON"/>
